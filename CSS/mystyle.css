@@ -1,6 +1,33 @@
-.box,
-.box.target {
+
+
+
+.fizzBuzz {
+
+    background-color: blue;
     height: 100px;
     width: 100px;
-    border: 1px solid red;
+    border: 1px solid yellow;
+}
+
+.fizz {
+
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border: 1px solid yellow;
+}
+
+.buzz {
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border: 1px solid yellow;
+}
+
+.number {
+
+    background-color: violet;
+    height: 100px;
+    width: 100px;
+    border: 1px solid yellow;
 }
