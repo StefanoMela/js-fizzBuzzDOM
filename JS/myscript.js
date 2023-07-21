@@ -27,6 +27,7 @@ for (let i = 1; i <= 100; i++) {        // CREO CICLO PER STAMPARE IN CONSOLE NU
     }
 
     myDiv.innerHTML = output;
+    myDiv.classList.add("classic__box");
     myDiv.classList.add(myClass);
     newDiv.append(myDiv);
 

@@ -3,39 +3,31 @@
     background-color: #063B4C;
 }
 
+.classic__box {
 
+    height: 150px;
+    margin: 8px;
+    line-height: 150px;
+    width: calc((100% / 7) - 16px);
+    border: 1px solid yellow;
+
+}
 
 .fizzbuzz {
 
     background-color: #F0466F;
-    height: 150px;
-    line-height: 150px;
-    width: calc(100% / 7);
-    border: 1px solid yellow;
 }
 
 .fizz {
 
     background-color: #0FD6A1;
-    height: 150px;
-    line-height: 150px;
-    width: calc(100% / 7);
-    border: 1px solid yellow;
 }
 
 .buzz {
     background-color: #FFD166;
-    height: 150px;
-    line-height: 150px;
-    width: calc(100% / 7);
-    border: 1px solid yellow;
 }
 
 .number {
 
     background-color: #0F89B2;
-    height: 150px;
-    line-height: 150px;
-    width: calc(100% / 7);
-    border: 1px solid yellow;
 }
