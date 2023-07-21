@@ -16,6 +16,9 @@ for (let i = 1; i <= 100; i++) { // CREO CICLO PER STAMPARE IN CONSOLE NUMERI DA
     } else if (i % 5 == 0) {
         
         console.log(i + "buzz");    // CONSOLE.LOG DI PROVA
+    } else {
+
+        console.log(i);
     }
     
     const myDiv = document.createElement(div);   // PROVE DI MODIFICA DEL DOM
