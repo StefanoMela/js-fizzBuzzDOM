@@ -1,33 +1,41 @@
+.container-fluid {
+
+    background-color: #063B4C;
+}
 
 
 
-.fizzBuzz {
+.fizzbuzz {
 
-    background-color: blue;
-    height: 100px;
-    width: 100px;
+    background-color: #F0466F;
+    height: 150px;
+    line-height: 150px;
+    width: calc(100% / 7);
     border: 1px solid yellow;
 }
 
 .fizz {
 
-    background-color: green;
-    height: 100px;
-    width: 100px;
+    background-color: #0FD6A1;
+    height: 150px;
+    line-height: 150px;
+    width: calc(100% / 7);
     border: 1px solid yellow;
 }
 
 .buzz {
-    background-color: white;
-    height: 100px;
-    width: 100px;
+    background-color: #FFD166;
+    height: 150px;
+    line-height: 150px;
+    width: calc(100% / 7);
     border: 1px solid yellow;
 }
 
 .number {
 
-    background-color: violet;
-    height: 100px;
-    width: 100px;
+    background-color: #0F89B2;
+    height: 150px;
+    line-height: 150px;
+    width: calc(100% / 7);
     border: 1px solid yellow;
 }
